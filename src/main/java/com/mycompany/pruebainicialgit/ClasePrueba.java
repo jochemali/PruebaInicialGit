@@ -25,7 +25,7 @@ public class ClasePrueba {
     public int division(int a, int b){
         return a/b;
     }
-    
+    //Pa la rama
     public int resto(int a, int b){
         return a%b;
     }
