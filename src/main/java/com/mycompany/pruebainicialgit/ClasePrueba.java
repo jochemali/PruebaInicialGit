@@ -19,4 +19,8 @@ public class ClasePrueba {
         return a-b;
     }
     
+    public int multiplicacion(int a, int b){
+        return a*b;
+    }
+    
 }
